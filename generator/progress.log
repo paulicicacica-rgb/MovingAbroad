@@ -1,0 +1,310 @@
+[2026-04-26 11:28:40] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:28:40] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:28:40] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:28:40]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:28:40]   📸 No image found, continuing without
+[2026-04-26 11:28:50]   ✅ Saved: moving-from-romania-to-ireland.html
+[2026-04-26 11:28:51] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:28:51]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:28:51]   📸 No image found, continuing without
+[2026-04-26 11:29:00]   ✅ Saved: moving-from-poland-to-ireland.html
+[2026-04-26 11:29:02] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:29:02]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:29:02]   📸 No image found, continuing without
+[2026-04-26 11:29:12]   ✅ Saved: moving-from-italy-to-ireland.html
+[2026-04-26 11:29:13] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:29:13]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:29:13]   📸 No image found, continuing without
+[2026-04-26 11:29:22]   ✅ Saved: moving-from-portugal-to-ireland.html
+[2026-04-26 11:29:24] ⚙️  [5/5] Generating France → Ireland...
+[2026-04-26 11:29:24]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:29:24]   📸 No image found, continuing without
+[2026-04-26 11:29:33]   ✅ Saved: moving-from-france-to-ireland.html
+[2026-04-26 11:29:34] 
+==================================================
+[2026-04-26 11:29:34] ✅ Done: 5
+[2026-04-26 11:29:34] ⏭  Skipped: 0
+[2026-04-26 11:29:34] ❌ Failed: 0
+[2026-04-26 11:29:34] 📄 Total: 5
+[2026-04-26 11:34:13] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:34:13] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:34:13] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:34:13]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:34:13]   📸 No image found, continuing without
+[2026-04-26 11:35:04]   ❌ Claude error: Unterminated string starting at: line 7 column 12 (char 13312)
+[2026-04-26 11:35:04]   ❌ FAILED — Romania → Ireland
+[2026-04-26 11:35:06] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:35:06]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:35:06]   📸 No image found, continuing without
+[2026-04-26 11:35:18] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:35:18] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:35:18] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:35:18]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:35:18]   📸 No image found, continuing without
+[2026-04-26 11:35:58]   ❌ Claude error: Expecting ',' delimiter: line 8 column 1311 (char 6088)
+[2026-04-26 11:35:58]   ❌ FAILED — Poland → Ireland
+[2026-04-26 11:36:00] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:36:00]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:36:00]   📸 No image found, continuing without
+[2026-04-26 11:36:08]   ❌ Claude error: Unterminated string starting at: line 16 column 11 (char 15935)
+[2026-04-26 11:36:08]   ❌ FAILED — Romania → Ireland
+[2026-04-26 11:36:10] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:36:10]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:36:10]   📸 No image found, continuing without
+[2026-04-26 11:36:20] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:36:20] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:36:20] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:36:20]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:36:20]   📸 No image found, continuing without
+[2026-04-26 11:36:50]   ❌ Claude error: Unterminated string starting at: line 7 column 12 (char 11599)
+[2026-04-26 11:36:50]   ❌ FAILED — Italy → Ireland
+[2026-04-26 11:36:52] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:36:52]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:36:52]   📸 No image found, continuing without
+[2026-04-26 11:37:02]   ❌ Claude error: Unterminated string starting at: line 14 column 11 (char 13374)
+[2026-04-26 11:37:02]   ❌ FAILED — Poland → Ireland
+[2026-04-26 11:37:04] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:37:04]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:37:04]   📸 No image found, continuing without
+[2026-04-26 11:37:08]   ❌ Claude error: Unterminated string starting at: line 14 column 11 (char 14317)
+[2026-04-26 11:37:08]   ❌ FAILED — Romania → Ireland
+[2026-04-26 11:37:10] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:37:10]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:37:10]   📸 No image found, continuing without
+[2026-04-26 11:37:23] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:37:23] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:37:23] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:37:23]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:37:23]   📸 No image found, continuing without
+[2026-04-26 11:37:43]   ❌ Claude error: Unterminated string starting at: line 9 column 11 (char 15232)
+[2026-04-26 11:37:43]   ❌ FAILED — Portugal → Ireland
+[2026-04-26 11:37:45] ⚙️  [5/5] Generating France → Ireland...
+[2026-04-26 11:37:45]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:37:45]   📸 No image found, continuing without
+[2026-04-26 11:37:55]   ❌ Claude error: Unterminated string starting at: line 14 column 12 (char 14280)
+[2026-04-26 11:37:55]   ❌ FAILED — Italy → Ireland
+[2026-04-26 11:37:57] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:37:57]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:37:57]   📸 No image found, continuing without
+[2026-04-26 11:38:04]   ❌ Claude error: Unterminated string starting at: line 16 column 11 (char 15540)
+[2026-04-26 11:38:04]   ❌ FAILED — Poland → Ireland
+[2026-04-26 11:38:06] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:38:06]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:38:06]   📸 No image found, continuing without
+[2026-04-26 11:38:13]   ❌ Claude error: Unterminated string starting at: line 14 column 11 (char 14121)
+[2026-04-26 11:38:13]   ❌ FAILED — Romania → Ireland
+[2026-04-26 11:38:15] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:38:15]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:38:15]   📸 No image found, continuing without
+[2026-04-26 11:38:28] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:38:28] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:38:28] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:38:28]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:38:28]   📸 No image found, continuing without
+[2026-04-26 11:38:37]   ❌ Claude error: Unterminated string starting at: line 14 column 11 (char 14792)
+[2026-04-26 11:38:37]   ❌ FAILED — France → Ireland
+[2026-04-26 11:38:39] 
+==================================================
+[2026-04-26 11:38:39] ✅ Done: 0
+[2026-04-26 11:38:39] ⏭  Skipped: 0
+[2026-04-26 11:38:39] ❌ Failed: 5
+[2026-04-26 11:38:39] 📄 Total: 5
+[2026-04-26 11:38:52]   ❌ Claude error: Unterminated string starting at: line 8 column 11 (char 15928)
+[2026-04-26 11:38:52]   ❌ FAILED — Portugal → Ireland
+[2026-04-26 11:38:54] ⚙️  [5/5] Generating France → Ireland...
+[2026-04-26 11:38:54]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:38:54]   📸 No image found, continuing without
+[2026-04-26 11:38:56]   ✅ Saved: moving-from-italy-to-ireland.html
+[2026-04-26 11:38:57] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:38:57]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:38:57]   📸 No image found, continuing without
+[2026-04-26 11:39:08]   ❌ Claude error: Unterminated string starting at: line 8 column 11 (char 11608)
+[2026-04-26 11:39:08]   ❌ FAILED — Poland → Ireland
+[2026-04-26 11:39:10] ⏭  [3/5] Skipping Italy → Ireland (exists)
+[2026-04-26 11:39:10] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:39:10]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:39:10]   📸 No image found, continuing without
+[2026-04-26 11:39:21]   ❌ Claude error: Unterminated string starting at: line 16 column 11 (char 16092)
+[2026-04-26 11:39:21]   ❌ FAILED — Romania → Ireland
+[2026-04-26 11:39:23] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:39:23]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:39:23]   📸 No image found, continuing without
+[2026-04-26 11:39:46]   ❌ Claude error: Expecting ',' delimiter: line 14 column 1595 (char 15638)
+[2026-04-26 11:39:46]   ❌ FAILED — France → Ireland
+[2026-04-26 11:39:48] 
+==================================================
+[2026-04-26 11:39:48] ✅ Done: 0
+[2026-04-26 11:39:48] ⏭  Skipped: 0
+[2026-04-26 11:39:48] ❌ Failed: 5
+[2026-04-26 11:39:48] 📄 Total: 5
+[2026-04-26 11:39:51]   ❌ Claude error: Unterminated string starting at: line 8 column 11 (char 13835)
+[2026-04-26 11:39:51]   ❌ FAILED — Portugal → Ireland
+[2026-04-26 11:39:53] ⚙️  [5/5] Generating France → Ireland...
+[2026-04-26 11:39:53]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:39:53]   📸 No image found, continuing without
+[2026-04-26 11:40:01]   ❌ Claude error: Expecting ',' delimiter: line 9 column 1967 (char 14007)
+[2026-04-26 11:40:01]   ❌ FAILED — Portugal → Ireland
+[2026-04-26 11:40:03] ⚙️  [5/5] Generating France → Ireland...
+[2026-04-26 11:40:03]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:40:03]   📸 No image found, continuing without
+[2026-04-26 11:40:16]   ❌ Claude error: Unterminated string starting at: line 16 column 11 (char 15376)
+[2026-04-26 11:40:16]   ❌ FAILED — Poland → Ireland
+[2026-04-26 11:40:18] ⏭  [3/5] Skipping Italy → Ireland (exists)
+[2026-04-26 11:40:18] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:40:18]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:40:18]   📸 No image found, continuing without
+[2026-04-26 11:40:23]   ❌ Claude error: Unterminated string starting at: line 16 column 11 (char 14110)
+[2026-04-26 11:40:45]   ❌ Claude error: Unterminated string starting at: line 14 column 11 (char 15924)
+[2026-04-26 11:40:45]   ❌ FAILED — France → Ireland
+[2026-04-26 11:40:47] 
+==================================================
+[2026-04-26 11:40:47] ✅ Done: 1
+[2026-04-26 11:40:47] ⏭  Skipped: 0
+[2026-04-26 11:40:47] ❌ Failed: 4
+[2026-04-26 11:40:47] 📄 Total: 5
+[2026-04-26 11:40:58]   ❌ Claude error: Unterminated string starting at: line 9 column 11 (char 14548)
+[2026-04-26 11:40:58]   ❌ FAILED — France → Ireland
+[2026-04-26 11:41:00] 
+==================================================
+[2026-04-26 11:41:00] ✅ Done: 0
+[2026-04-26 11:41:00] ⏭  Skipped: 1
+[2026-04-26 11:41:00] ❌ Failed: 4
+[2026-04-26 11:41:00] 📄 Total: 5
+[2026-04-26 11:41:35]   ❌ Claude error: Expecting ',' delimiter: line 14 column 2159 (char 13356)
+[2026-04-26 11:41:48] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:41:48] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:41:48] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:41:48]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:41:48]   📸 No image found, continuing without
+[2026-04-26 11:42:50] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:42:50] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:42:50] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:42:50]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:42:50]   📸 No image found, continuing without
+[2026-04-26 11:43:48]   ❌ Claude error: HTTPSConnectionPool(host='api.anthropic.com', port=443): Read timed out. (read timeout=120)
+[2026-04-26 11:43:48]   ❌ FAILED — Romania → Ireland
+[2026-04-26 11:43:50] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:43:50]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:43:50]   📸 No image found, continuing without
+[2026-04-26 11:43:52] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:43:52] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:43:52] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:43:53]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:43:53]   📸 No image found, continuing without
+[2026-04-26 11:44:05]   ✅ Saved: moving-from-romania-to-ireland.html
+[2026-04-26 11:44:06] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:44:06]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:44:06]   📸 No image found, continuing without
+[2026-04-26 11:44:48]   ✅ Saved: moving-from-romania-to-ireland.html
+[2026-04-26 11:44:49] ⚙️  [2/5] Generating Poland → Ireland...
+[2026-04-26 11:44:49]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:44:49]   📸 No image found, continuing without
+[2026-04-26 11:44:58] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:44:58] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:44:58] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:44:58]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:44:58]   📸 No image found, continuing without
+[2026-04-26 11:45:00] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:45:00] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:45:00] ⚙️  [1/5] Generating Romania → Ireland...
+[2026-04-26 11:45:00]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:45:00]   📸 No image found, continuing without
+[2026-04-26 11:45:21]   ✅ Saved: moving-from-poland-to-ireland.html
+[2026-04-26 11:45:22] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:45:22]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:45:22]   📸 No image found, continuing without
+[2026-04-26 11:45:50]   ❌ Claude error: HTTPSConnectionPool(host='api.anthropic.com', port=443): Read timed out. (read timeout=120)
+[2026-04-26 11:45:50]   ❌ FAILED — Poland → Ireland
+[2026-04-26 11:45:51]   ✅ Saved: moving-from-romania-to-ireland.html
+[2026-04-26 11:45:52] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:45:52]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:45:52]   📸 No image found, continuing without
+[2026-04-26 11:45:53] ⏭  [2/5] Skipping Poland → Ireland (exists)
+[2026-04-26 11:45:53] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:45:53]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:45:53]   📸 No image found, continuing without
+[2026-04-26 11:46:04]   ✅ Saved: moving-from-poland-to-ireland.html
+[2026-04-26 11:46:05] 🧪 TEST MODE — generating 5 pages only
+[2026-04-26 11:46:05] 🚀 Starting generation — 5 pages to process
+[2026-04-26 11:46:05] ⏭  [1/5] Skipping Romania → Ireland (exists)
+[2026-04-26 11:46:05] ⏭  [2/5] Skipping Poland → Ireland (exists)
+[2026-04-26 11:46:05] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:46:05]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:46:05]   📸 No image found, continuing without
+[2026-04-26 11:46:06] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:46:06]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:46:06]   📸 No image found, continuing without
+[2026-04-26 11:46:08]   ✅ Saved: moving-from-romania-to-ireland.html
+[2026-04-26 11:46:09] ⏭  [2/5] Skipping Poland → Ireland (exists)
+[2026-04-26 11:46:09] ⚙️  [3/5] Generating Italy → Ireland...
+[2026-04-26 11:46:09]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:46:09]   📸 No image found, continuing without
+[2026-04-26 11:46:12]   ✅ Saved: moving-from-italy-to-ireland.html
+[2026-04-26 11:46:13] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:46:13]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:46:13]   📸 No image found, continuing without
+[2026-04-26 11:46:46]   ✅ Saved: moving-from-italy-to-ireland.html
+[2026-04-26 11:46:47] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:46:47]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:46:47]   📸 No image found, continuing without
+[2026-04-26 11:46:59]   ✅ Saved: moving-from-italy-to-ireland.html
+[2026-04-26 11:47:01] ⚙️  [4/5] Generating Portugal → Ireland...
+[2026-04-26 11:47:01]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:01]   📸 No image found, continuing without
+[2026-04-26 11:47:09]   ✅ Saved: moving-from-portugal-to-ireland.html
+[2026-04-26 11:47:10] ⚙️  [5/5] Generating France → Ireland...
+[2026-04-26 11:47:10]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:10]   📸 No image found, continuing without
+[2026-04-26 11:47:16]   ✅ Saved: moving-from-italy-to-ireland.html
+[2026-04-26 11:47:18] ⏭  [4/5] Skipping Portugal → Ireland (exists)
+[2026-04-26 11:47:18] ⚙️  [5/5] Generating France → Ireland...
+[2026-04-26 11:47:18]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:18]   📸 No image found, continuing without
+[2026-04-26 11:47:22]   ✅ Saved: moving-from-italy-to-ireland.html
+[2026-04-26 11:47:23] ⏭  [4/5] Skipping Portugal → Ireland (exists)
+[2026-04-26 11:47:23] ⚙️  [5/5] Generating France → Ireland...
+[2026-04-26 11:47:23]   ⚠️  Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:23]   📸 No image found, continuing without
+[2026-04-26 11:47:56] Generating Romania to Ireland...
+[2026-04-26 11:47:56]   Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:56] Claude error: 'content'
+[2026-04-26 11:47:56] FAILED: Romania
+[2026-04-26 11:47:56] Generating Poland to Ireland...
+[2026-04-26 11:47:56]   Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:56] Claude error: 'content'
+[2026-04-26 11:47:56] FAILED: Poland
+[2026-04-26 11:47:56] Generating Italy to Ireland...
+[2026-04-26 11:47:56]   Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:57] Claude error: 'content'
+[2026-04-26 11:47:57] FAILED: Italy
+[2026-04-26 11:47:57] Generating Portugal to Ireland...
+[2026-04-26 11:47:57]   Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:57] Claude error: 'content'
+[2026-04-26 11:47:57] FAILED: Portugal
+[2026-04-26 11:47:57] Generating France to Ireland...
+[2026-04-26 11:47:57]   Unsplash error: Expecting value: line 1 column 1 (char 0)
+[2026-04-26 11:47:57] Claude error: 'content'
+[2026-04-26 11:47:57] FAILED: France
+[2026-04-26 11:47:57] Done: 0/5
+[2026-04-26 11:47:58]   ✅ Saved: moving-from-france-to-ireland.html
+[2026-04-26 11:47:59] 
+==================================================
+[2026-04-26 11:47:59] ✅ Done: 2
+[2026-04-26 11:47:59] ⏭  Skipped: 3
+[2026-04-26 11:47:59] ❌ Failed: 0
+[2026-04-26 11:47:59] 📄 Total: 5
+[2026-04-26 11:48:00]   ✅ Saved: moving-from-portugal-to-ireland.html
+[2026-04-26 11:48:01] ⏭  [5/5] Skipping France → Ireland (exists)
+[2026-04-26 11:48:01] 
+==================================================
+[2026-04-26 11:48:01] ✅ Done: 4
+[2026-04-26 11:48:01] ⏭  Skipped: 1
+[2026-04-26 11:48:01] ❌ Failed: 0
+[2026-04-26 11:48:01] 📄 Total: 5
+[2026-04-26 11:48:42]   ✅ Saved: moving-from-france-to-ireland.html
+[2026-04-26 11:48:43] 
+==================================================
+[2026-04-26 11:48:43] ✅ Done: 3
+[2026-04-26 11:48:43] ⏭  Skipped: 2
+[2026-04-26 11:48:43] ❌ Failed: 0
+[2026-04-26 11:48:43] 📄 Total: 5
